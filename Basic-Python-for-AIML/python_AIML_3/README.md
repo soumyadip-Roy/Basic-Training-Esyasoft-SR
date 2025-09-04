@@ -1,8 +1,8 @@
 # Day 3 Activities:
-
-## Datatypes studied
-## Conditional Statements Studied
-## Loops Studied
+## Learnings:
+- Python Datatypes studied
+- Conditional Statements Studied
+- Loops Studied
 
 ## Activity: 
 - Get the number of coordinates
