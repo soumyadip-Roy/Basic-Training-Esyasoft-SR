@@ -1,4 +1,4 @@
-# Day 1 Activities:
+# Day 2 Activities:
 
 ## Learning:
 - Explored python basics
