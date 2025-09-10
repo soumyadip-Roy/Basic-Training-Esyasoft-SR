@@ -9,3 +9,12 @@
 - Learned JOIN queries
 ### Files:
 - SQLAssignment1.txt- Class assignment
+
+## Week 1 Completion Assignment:
+### Learnings:
+- Implemented 2 proper databases 
+- Joined with a foreign key
+- Fetched the queries as given in the assignment task
+
+### Files:
+- SQLWeek1_Assignment.sql -- File with the proper database creation and queries
