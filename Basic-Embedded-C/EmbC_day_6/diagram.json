@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "author": "Soumyadip",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 29.4, "left": -58.2, "attrs": {} },
+    { "type": "wokwi-lcd1602", "id": "lcd1", "top": -226.97, "left": -32, "attrs": {} },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 13.55,
+      "left": 249.6,
+      "rotate": 90,
+      "attrs": { "value": "220000" }
+    }
+  ],
+  "connections": [
+    [ "uno:GND.1", "lcd1:VSS", "black", [ "h-66.9", "v-182.4" ] ],
+    [ "lcd1:A", "r1:1", "red", [ "v48", "h115.1" ] ],
+    [ "uno:5V", "r1:2", "red", [ "h-25", "v-172.55" ] ],
+    [ "lcd1:D7", "uno:7", "green", [ "v0" ] ],
+    [ "lcd1:D6", "uno:8", "green", [ "v0" ] ],
+    [ "lcd1:D5", "uno:9", "green", [ "v0" ] ],
+    [ "lcd1:D4", "uno:10", "green", [ "v0" ] ],
+    [ "lcd1:E", "uno:11", "gold", [ "v0" ] ],
+    [ "lcd1:RS", "uno:12", "white", [ "v0" ] ],
+    [ "uno:5V", "lcd1:VDD", "red", [ "v-0.1", "h-149.8", "v-268.8", "h57.5" ] ],
+    [ "lcd1:K", "lcd1:RW", "black", [ "v0" ] ],
+    [ "lcd1:RW", "lcd1:VSS", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
