@@ -27,3 +27,10 @@
 
 ### Files:
 - SQLWeek2_Assignment.sql -- File with the proper database creation and queries
+
+- ## Week 2 Completion Assignment 2:
+### Learnings:
+- Wrote queries with the help of window functions
+
+### Files:
+- SQLWeek2_Assignment2.sql -- File with the proper database creation and queries
