@@ -34,3 +34,21 @@
 
 ### Files:
 - SQLWeek2_Assignment2.sql -- File with the proper database creation and queries
+
+## Week 2 Completion Assignment3:
+### Learnings:
+- Wrote queries with the help of complex aggregate functions 
+- Join with other tables 
+- Fetched the queries as given in the assignment task
+
+### Files:
+- SQLWeek2_Assignment.sql -- File with the proper database creation and queries
+
+- ## Week 2 Completion Assignment 3:
+### Learnings:
+- Wrote queries with functions given in the assignment, as described in the code.
+
+### Files:
+- SQLWeek2_Assignment3.sql -- File with the proper database creation and queries
+
+
