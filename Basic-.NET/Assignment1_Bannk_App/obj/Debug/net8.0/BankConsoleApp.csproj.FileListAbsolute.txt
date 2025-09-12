@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\bin\Debug\net8.0\BankConsoleApp.exe
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\bin\Debug\net8.0\BankConsoleApp.deps.json
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\bin\Debug\net8.0\BankConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\bin\Debug\net8.0\BankConsoleApp.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\bin\Debug\net8.0\BankConsoleApp.pdb
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\refint\BankConsoleApp.dll
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.pdb
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\BankConsoleApp.genruntimeconfig.cache
+C:\Users\user\Desktop\Soumyadip--Esyasoft\BankConsoleApp\obj\Debug\net8.0\ref\BankConsoleApp.dll
