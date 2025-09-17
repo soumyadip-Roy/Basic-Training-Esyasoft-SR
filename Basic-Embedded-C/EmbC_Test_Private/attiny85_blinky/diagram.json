@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "author": "Soumyadip",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-breadboard-mini",
+      "id": "bb1",
+      "top": -123.9,
+      "left": -92.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    { "type": "wokwi-attiny85", "id": "tiny", "top": -68.4, "left": 111.2, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -157.2,
+      "left": -140.2,
+      "attrs": { "color": "red" }
+    }
+  ],
+  "connections": [
+    [ "tiny:VCC", "bb1:15b.f", "red", [ "v0" ] ],
+    [ "tiny:PB5", "bb1:14t.d", "green", [ "v0" ] ],
+    [ "tiny:PB3", "bb1:11t.c", "green", [ "v0" ] ],
+    [ "tiny:PB4", "bb1:7t.b", "green", [ "v0" ] ],
+    [ "tiny:PB2", "bb1:14b.g", "green", [ "v0" ] ],
+    [ "tiny:PB1", "bb1:11b.h", "green", [ "v0" ] ],
+    [ "tiny:PB0", "bb1:8b.i", "green", [ "h-1.2", "v-33.5" ] ],
+    [ "tiny:GND", "bb1:15t.a", "black", [ "v0" ] ],
+    [ "led1:A", "bb1:14t.e", "green", [ "v0" ] ],
+    [ "bb1:15t.b", "led1:C", "green", [ "v5.9", "h-60.3" ] ]
+  ],
+  "dependencies": {}
+}
