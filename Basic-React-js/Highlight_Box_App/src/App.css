@@ -1,0 +1,27 @@
+.parent {
+    display: flex;
+    flexDirection: row;
+    alignContent: centre;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+
+}
+
+.box {
+    flex: 1;
+    margin: 15px;
+    padding: 100px;
+    text-align: center;
+}
+
+.highlight_box {
+    flex: 1;
+    margin: 15px;
+    padding: 100px;
+    text-align: center;
+    border-radius: 10%;
+    border-width: 20px;
+    border-style: solid;
+    border-color: yellow;
+}
